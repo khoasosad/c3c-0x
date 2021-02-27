@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv59-7Hvh13ymymoS96A",
+    "senderID": "100004073136152",
+    "attachments": [],
+    "body": "+10 cái đần của Mirai :))",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1614008854407,
+    "messageReply": {
+        "threadID": "3450196415093502",
+        "messageID": "mid.$gAAxB73O6Gv59-6cK1V3ymHAi020L",
+        "senderID": "100009859624773",
+        "attachments": [],
+        "body": "prefix",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1614008140501
+    }
+}

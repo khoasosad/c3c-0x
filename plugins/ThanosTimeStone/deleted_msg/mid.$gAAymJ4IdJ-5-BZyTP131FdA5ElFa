@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100041638630555",
+    "body": "Đây gái đây. Đồ mê gái 🤭.",
+    "threadID": "3560388337412078",
+    "messageID": "mid.$gAAymJ4IdJ-5-BZyTP131FdA5ElFa",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1206970309717848",
+            "filename": "image-1206970309717848",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/119099605_790513378385192_8785728514111124335_n.jpg?_nc_cat=107&ccb=3&_nc_sid=ae9488&_nc_ohc=RUKQ15cy_XQAX9qhFx9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=89afbcfda20cb4a86b748249b389dc4b&oe=605BAC9C",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/119099605_790513378385192_8785728514111124335_n.jpg?_nc_cat=107&ccb=3&_nc_sid=ae9488&_nc_ohc=RUKQ15cy_XQAX9qhFx9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=ac87ffeaf04251c402e6688e426d3e11&oe=605B20F9",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119099605_790513378385192_8785728514111124335_n.jpg?_nc_cat=107&ccb=3&_nc_sid=ae9488&_nc_ohc=RUKQ15cy_XQAX9qhFx9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=8edd501d7b509f2291a79e910996e991&oe=605BE200",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/119099605_790513378385192_8785728514111124335_n.jpg?_nc_cat=107&ccb=3&_nc_sid=ae9488&_nc_ohc=RUKQ15cy_XQAX9qhFx9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=8edd501d7b509f2291a79e910996e991&oe=605BE200",
+            "width": 1080,
+            "height": 1080,
+            "name": "image-1206970309717848"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1614175226687",
+    "isGroup": true
+}

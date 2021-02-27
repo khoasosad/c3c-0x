@@ -1,0 +1,36 @@
+{
+    "type": "message",
+    "senderID": "100001887629125",
+    "body": "if (contentMessage == `${prefix}gái`) {\r\n\t\t\treturn (async () => {\r\n\t\t\t\tlet { data } = await axios.get('https://api.simsimi. tk/girl.php');\r\n\t\t\t\t var callback = () => api.sendMessage({attachment: fs.createReadStream(__dirname + \"/src/1.png\")}, threadID, () => fs.unlinkSync(__dirname + \"/src/1.png\"));\t\r\n      return request(encodeURI(`${data.link}`)).pipe(fs.createWriteStream(__dirname+'/src/1.png')).on('close',() => callback());\r\n    \r\n\t\t\t\t})();\r\n\t\t\r\n\t\t}",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv59-4TcF13yj-LqTwPU",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAxB73O6Gv59-4TcF13yj-LqTwPU",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.simsimi%2F&h=AT3hKGiHb4RsrMGkmTCttsemh8le8C7ykmBVQTOBQbjfE1Ni8LnATadY20_kZWQ6_twRnlk1VTXqEZTu1-xz-wigC4HsW8QJ9H3xMotco046Qi5tyHfAu0ARqNjtZTAdyLIuXAPK8D6QnNw&s=1",
+            "title": "api.simsimi",
+            "description": "",
+            "source": "api.simsimi",
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.simsimi%2F&h=AT3hKGiHb4RsrMGkmTCttsemh8le8C7ykmBVQTOBQbjfE1Ni8LnATadY20_kZWQ6_twRnlk1VTXqEZTu1-xz-wigC4HsW8QJ9H3xMotco046Qi5tyHfAu0ARqNjtZTAdyLIuXAPK8D6QnNw&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1614005900311",
+    "isGroup": true
+}

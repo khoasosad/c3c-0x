@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100055542080000",
+    "body": "Trình độ chém gió của Rem đã đạt tới level 2",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv59-7y3LF3zC7L2I_vm",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "718540005494985",
+            "filename": "gif-718540005494985",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "previewWidth": 457,
+            "previewHeight": 498,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "width": 457,
+            "height": 498,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "name": "gif-718540005494985",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=3&_nc_sid=041f46&_nc_ohc=LGdYNLhILDQAX_aJmbC&_nc_ht=cdn.fbsbx.com&oh=2f03dd838d300f4c4d5e43eac990cbf8&oe=603534E7"
+        }
+    ],
+    "mentions": {
+        "100028702822783": "Rem"
+    },
+    "timestamp": "1614009560876",
+    "isGroup": true
+}

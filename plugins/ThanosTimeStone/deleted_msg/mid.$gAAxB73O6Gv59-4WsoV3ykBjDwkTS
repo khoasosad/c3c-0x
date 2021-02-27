@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100001389039078",
+    "body": "Kích hoạt Thanos Time Stone: @Nguyễn Quốc Vinh đã cố gắng xoá 1 tin nhắn. \r\n\r\nAttachments:\r\nhttps://tinyurl.com/y9n9wk5z\r\n\r\nNội dung: if (contentMessage == `${prefix}gái`) {\r\n\t\t\treturn (async () => {\r\n\t\t\t\tlet { data } = await axios.get('https://api.simsimi. tk/girl.php');\r\n\t\t\t\t var callback = () => api.sendMessage({attachment: fs.createReadStream(__dirname + \"/src/1.png\")}, threadID, () => fs.unlinkSync(__dirname + \"/src/1.png\"));\t\r\n      return request(encodeURI(`${data.link}`)).pipe(fs.createWriteStream(__dirname+'/src/1.png')).on('close',() => callback());\r\n    \r\n\t\t\t\t})();\r\n\t\t\r\n\t\t}",
+    "threadID": "3450196415093502",
+    "messageID": "mid.$gAAxB73O6Gv59-4WsoV3ykBjDwkTS",
+    "attachments": [],
+    "mentions": {
+        "100001887629125": "Nguyễn Quốc Vinh "
+    },
+    "timestamp": "1614005953697",
+    "isGroup": true
+}

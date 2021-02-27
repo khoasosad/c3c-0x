@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3560388337412078",
+    "messageID": "mid.$gAAymJ4IdJ-5-BZFu4V31EwiOettc",
+    "senderID": "100062728985311",
+    "attachments": [],
+    "body": "ib riêng anh giải thíck cho dume",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1614174496481,
+    "messageReply": {
+        "threadID": "3560388337412078",
+        "messageID": "mid.$gAAymJ4IdJ-5-BZCoK131EtdNVxUQ",
+        "senderID": "100048287740220",
+        "attachments": [],
+        "body": "K giải thích m nói thế t có tức k:)",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1614174445611
+    }
+}

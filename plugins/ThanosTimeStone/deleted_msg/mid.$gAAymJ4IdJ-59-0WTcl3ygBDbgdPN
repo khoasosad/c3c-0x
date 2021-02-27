@@ -1,0 +1,40 @@
+{
+    "type": "message_reply",
+    "threadID": "3560388337412078",
+    "messageID": "mid.$gAAymJ4IdJ-59-0WTcl3ygBDbgdPN",
+    "senderID": "100041638630555",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "130876082250765",
+            "filename": "image-130876082250765",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/153143810_130876088917431_8764076705214686266_n.png?_nc_cat=109&ccb=3&_nc_sid=ae9488&_nc_ohc=1_3g6c7R90gAX8CuGxq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=0622dae8d0161d9ed65c30c0b1c5488e&oe=6058B29F",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/153143810_130876088917431_8764076705214686266_n.png?_nc_cat=109&ccb=3&_nc_sid=ae9488&_nc_ohc=1_3g6c7R90gAX8CuGxq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3f8f157b1c2bb5a3c237c07129ec6077&oe=60590F4F",
+            "previewWidth": 447,
+            "previewHeight": 247,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/153143810_130876088917431_8764076705214686266_n.png?_nc_cat=109&ccb=3&_nc_sid=ae9488&_nc_ohc=1_3g6c7R90gAX8CuGxq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3f8f157b1c2bb5a3c237c07129ec6077&oe=60590F4F",
+            "largePreviewWidth": 447,
+            "largePreviewHeight": 247,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/153143810_130876088917431_8764076705214686266_n.png?_nc_cat=109&ccb=3&_nc_sid=ae9488&_nc_ohc=1_3g6c7R90gAX8CuGxq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3f8f157b1c2bb5a3c237c07129ec6077&oe=60590F4F",
+            "width": 447,
+            "height": 247,
+            "name": "image-130876082250765"
+        }
+    ],
+    "body": "Thich nha <333333",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1614001752946,
+    "messageReply": {
+        "threadID": "3560388337412078",
+        "messageID": "mid.$gAAymJ4IdJ-59-0Vz3l3ygAotvVNy",
+        "senderID": "100062728985311",
+        "attachments": [],
+        "body": "/bucu @Lý Hoàng Việt Tú",
+        "isGroup": true,
+        "mentions": {
+            "100024007876179": "@Lý Hoàng Việt Tú"
+        },
+        "timestamp": 1614001744862
+    }
+}
